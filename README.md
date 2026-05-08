@@ -1,4 +1,4 @@
-# Fuelix: AI Negotiation Simulator
+#  AI Negotiation Simulator
 
 Fuelix is a high-performance simulation platform for mastering the art of negotiation. It uses an adaptive LLM engine to simulate complex scenarios across multiple difficulty levels.
 
